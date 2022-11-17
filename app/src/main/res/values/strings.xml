@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Share Study</string>
+    <string name="分类">分类</string>
+    <string name="标签分类">标签分类</string>
+    <string name="添加标签">添加标签</string>
+    <string name="设置">设置</string>
+    <string name="关于">关于</string>
+    <string name="ID">ID</string>
+    <string name="我的图书">我的图书</string>
+    <string name="发现">发现</string>
+</resources>

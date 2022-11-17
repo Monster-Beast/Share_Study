@@ -1,0 +1,123 @@
+﻿{"Goods":[
+    {
+        "id": 1,
+        "banner": "https://bkimg.cdn.bcebos.com/pic/d000baa1cd11728bf303bdabc6fcc3cec3fd2c08?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2UyNzI=,g_7,xp_5,yp_5",
+        "bookName": "小王子",
+        "autherName": "安托万·德·圣修伯里",
+        "publisher": "Reynal & Hitchcock（美国）",
+        "publishedDate": "1942年10月",
+        "readingStatus": "",
+        "label": "",
+        "address": "",
+        "bookPic": "https://img14.360buyimg.com/n1/s546x546_jfs/t3244/120/1257322172/189576/8017c25b/57c90e31N78dd0f39.jpg"
+    },
+    {
+        "id": 2,
+        "banner": "https://img14.360buyimg.com/n1/s546x546_jfs/t1/159789/34/2443/178825/5ff8fba9E5b53de39/43fee15820621a0e.jpg",
+        "bookName": "平凡的世界",
+        "autherName": "路遥",
+        "publisher": "",
+        "publishedDate": "1986年",
+        "readingStatus": "",
+        "label": "",
+        "address": "",
+        "bookPic": "https://img13.360buyimg.com/n1/jfs/t1/159789/34/2443/178825/5ff8fba9E5b53de39/43fee15820621a0e.jpg"
+    },
+    {
+        "id": 3,
+        "banner": "https://www.winnews.com.tw/wp-content/uploads/2021/06/%E3%80%8A%E7%91%9E%E5%85%8B%E5%92%8C%E8%8E%AB%E8%92%82%E3%80%8B%E5%85%A8%E6%96%B0%E7%AC%AC%E4%BA%94%E5%AD%A36%E6%9C%8821%E6%97%A5%E7%8D%A8%E5%AE%B6%E6%96%BCHBO-GO%E4%B8%8A%E7%B7%9A.jpg",
+        "bookName": "瑞克与莫蒂",
+        "autherName": "",
+        "publisher": "",
+        "publishedDate": "",
+        "readingStatus": "",
+        "label": "",
+        "address": "https://www.hdmoli.com/movie/index1543.html",
+        "bookPic": "https://bkimg.cdn.bcebos.com/pic/c995d143ad4bd113b6efa2cb52afa40f4bfb052c?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2U5Mg==,g_7,xp_5,yp_5"
+    },
+    {
+        "id": 4,
+        "banner": "",
+        "bookName": "三国演义",
+        "autherName": "罗贯中",
+        "publisher": "",
+        "publishedDate": "元末明初洪武年间",
+        "readingStatus": "",
+        "label": "",
+        "address": "",
+        "bookPic": "https://bkimg.cdn.bcebos.com/pic/a6efce1b9d16fdfaaf51419e70c59b5494eef01fcd22?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2UxODA=,g_7,xp_5,yp_5"
+    },
+    {
+        "id": 5,
+        "banner": "",
+        "bookName": "水浒传",
+        "autherName": "施耐庵、罗贯中",
+        "publisher": "",
+        "publishedDate": "元末明初",
+        "readingStatus": "",
+        "label": "",
+        "address": "",
+        "bookPic": "https://bkimg.cdn.bcebos.com/pic/d50735fae6cd7b899616dd8b052442a7d9330ebb?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2UyNzI=,g_7,xp_5,yp_5"
+    },
+    {
+        "id": 6,
+        "banner": "",
+        "bookName": "红楼梦",
+        "autherName": "曹雪芹(前80回)、无名氏(后40回)、程伟元、高鹗(整理)",
+        "publisher": "",
+        "publishedDate": "清代",
+        "readingStatus": "",
+        "label": "",
+        "address": "",
+        "bookPic": "https://bkimg.cdn.bcebos.com/pic/7c1ed21b0ef41bd5ad6e4bff779696cb39dbb6fd972e?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2U5Mg==,g_7,xp_5,yp_5"
+    },
+    {
+        "id": 7,
+        "banner": "",
+        "bookName": "西游记",
+        "autherName": "吴承恩",
+        "publisher": "",
+        "publishedDate": "明代",
+        "readingStatus": "",
+        "label": "",
+        "address": "",
+        "bookPic": "https://bkimg.cdn.bcebos.com/pic/b7fd5266d01609248d763e43db0735fae6cd3412?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2UxMTY=,g_7,xp_5,yp_5"
+    },
+    {
+        "id": 8,
+        "banner": "",
+        "bookName": "三体（一）",
+        "autherName": "刘慈欣",
+        "publisher": "",
+        "publishedDate": "2006年",
+        "readingStatus": "",
+        "label": "",
+        "address": "",
+        "bookPic": "https://bkimg.cdn.bcebos.com/pic/c9fcc3cec3fdfc03813e641dd33f8794a5c226d4?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2UyMjA=,g_7,xp_5,yp_5"
+    },
+    {
+        "id": 9,
+        "banner": "",
+        "bookName": "活着",
+        "autherName": "余华",
+        "publisher": "",
+        "publishedDate": "1992年12月",
+        "readingStatus": "",
+        "label": "",
+        "address": "",
+        "bookPic": "https://bkimg.cdn.bcebos.com/pic/80cb39dbb6fd5266d016e84a494a802bd40735fa9868?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2UxODA=,g_7,xp_5,yp_5"
+    },
+    {
+        "id": 10,
+        "banner": "",
+        "bookName": "安卓移动开发基础",
+        "autherName": "黑马程序员",
+        "publisher": "人民邮电出版社",
+        "publishedDate": "2021年10月",
+        "readingStatus": "",
+        "label": "",
+        "address": "",
+        "bookPic": "https://imgservice.suning.cn/uimg1/b2c/image/s5cEiHfQ7vJ04Y4DwVNuaQ.jpg_400w_400h_4e"
+    }
+]
+}
